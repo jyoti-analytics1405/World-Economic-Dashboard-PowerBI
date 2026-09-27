@@ -48,9 +48,9 @@ Deeper analytical view:
 
 ## 📸 Screenshots
 
-*(![Overview Page](Screenshot%202026-09-27%20180004.png)
-![Trend & Insights Page](Screenshot%202026-09-27%20180029.png)
-![Drillthrough Example](Screenshot%202026-09-27%20180052.png))*
+*[Overview Page]
+[Trend & Insights Page]
+[Front Page]*
 
 ## 🔗 Related Projects
 
